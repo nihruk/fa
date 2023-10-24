@@ -14,7 +14,7 @@ export default function Dummy() {
       <main className={styles.main}>
         <div className={styles.container}>
           <h1 className={styles.title}>
-            <span className={styles.pinkSpan}>NIHR</span> Dummy page
+            <span className={styles.pinkSpan}>NIHR</span> Dummy page test
           </h1>
         </div>
       </main>
